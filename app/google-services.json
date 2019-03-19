@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "263070162318",
+    "firebase_url": "https://aisha-4d3ac.firebaseio.com",
+    "project_id": "aisha-4d3ac",
+    "storage_bucket": "aisha-4d3ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263070162318:android:1b7829f2ac180d28",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263070162318-0s1bboqohf96u62339b8i5419km15r5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAsRy9T-UCYCAfvqWy9j3_HJQpkWyRcuQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
